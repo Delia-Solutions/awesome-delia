@@ -3,7 +3,7 @@ A list of curated Technologies we love using at Delia Solutions :heart:
 
 ## Front-end architecture
 Our projects are built with [Nuxt.js](https://github.com/nuxt). This framework allows you to build Vue application in an efficient way.
-Most of our design made with Nuxt.js are based on [Vuetify.js](https://github.com/vuetifyjs/vuetify), this library help you to build efficient user interface based on the Material design specification.
+Most of our design made with Nuxt.js are based on [Vuetify.js](https://github.com/vuetifyjs/vuetify), this library helps you to build efficient user interface based on the Material design specification.
 
 ## Back-end architecture
 Most of our project are built with [TSOA](https://github.com/lukeautry/tsoa). [This framework](https://github.com/lukeautry/tsoa) allows you to build a REST API using Typescript and Node.  
